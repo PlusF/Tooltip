@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from Tooltip import Tooltip
+from tooltip.Tooltip import Tooltip
 
 
 class TkTooltipLabel(tk.Label):
