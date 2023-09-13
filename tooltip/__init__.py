@@ -1,2 +1,2 @@
 from tooltip.Tooltip import Tooltip
-from tooltip.TooltipLabel import TooltipLabel
+from tooltip.TooltipLabel import TkTooltipLabel, TtkTooltipLabel
